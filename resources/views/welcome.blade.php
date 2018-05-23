@@ -4,12 +4,13 @@
     @if (Auth::check())
         <div class="row">
             <aside class="col-md-4">
-            </aside>
+            </aside>    
             <div class="col-xs-8">
                 @if (count($microposts) > 0)
                     @include('microposts.microposts', ['microposts' => $microposts])
                 @endif
             </div>
+            </aside>
         </div>
     @else
         <div class="center jumbotron">
