@@ -1,3 +1,12 @@
+# Twitterクローン
+<p>機能一覧</p>
+<p>ユーザ登録／ログイン認証機能</p>
+<p>ツイート(Micropost)の一覧表示</p>
+<p>フォロー／フォロワー機能</p>
+<p>お気に入り機能（最終課題）</p>
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
