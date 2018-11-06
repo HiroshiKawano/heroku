@@ -5,6 +5,13 @@
 <p>フォロー／フォロワー機能</p>
 <p>お気に入り機能（最終課題）</p>
 
+<img width="599" alt=“taskController” src="https://user-images.githubusercontent.com/39044771/48080427-fc0fc680-e230-11e8-84c7-450540d308ca.png">
+
+<img width="599" alt=“loginAuth1” src="https://user-images.githubusercontent.com/39044771/48080766-d1723d80-e231-11e8-8b28-664df4007e5a.png">
+
+<img width="599" alt=“loginAuth2” src="https://user-images.githubusercontent.com/39044771/48080942-45144a80-e232-11e8-8534-761d149a7385.png">
+
+
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
